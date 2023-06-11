@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916258566367",
+    "project_id": "ahmetyesevi-7e11d",
+    "storage_bucket": "ahmetyesevi-7e11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916258566367:android:4d0be4987dc1c417d9f96a",
+        "android_client_info": {
+          "package_name": "com.example.instagramayu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916258566367-81iffpbljll4let5415habm9qmolnsvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__U_cgkMzeEodWe-TT4BHS2Z07rzD7zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916258566367-81iffpbljll4let5415habm9qmolnsvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
